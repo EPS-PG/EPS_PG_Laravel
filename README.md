@@ -13,4 +13,4 @@ Official Laravel package for integrating **EPSPG (Easy Payment System)** Payment
 - Laravel 8 / 9 / 10
 
 ## Support
-📧 integration@epspg.com
+📧 integration@eps.com.bd

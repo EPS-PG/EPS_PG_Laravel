@@ -1,21 +1,16 @@
-# EPSPG Laravel Package
+# EPSPG Laravel
 
-Official Laravel package for integrating **EPSPG (Easy Payment System)** Payment Gateway into Laravel applications.
-
-This package provides a clean and simple API to initiate payments, handle callbacks, and verify transactions securely.
+Official Laravel package for integrating **EPSPG (Easy Payment System)** Payment Gateway.
 
 ## Features
-- Laravel 8+
-- Sandbox & Live environment support
-- Payment initialization
-- IPN & callback handling
-- Transaction verification
-- Easy configuration
+- Sandbox & Live mode support  
+- Payment initialization  
+- Callback & IPN handling  
+- Simple Laravel-friendly API  
 
 ## Requirements
 - PHP 8.0+
-- Laravel 8.x / 9.x / 10.x
+- Laravel 8 / 9 / 10
 
-## Installation
-```bash
-composer require epspg/laravel
+## Support
+📧 integration@epspg.com
